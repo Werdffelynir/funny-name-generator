@@ -1,0 +1,19 @@
+{
+    "name": "werdffelynir/funny-name-generator",
+    "description": "To generate random funny names.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "werdffelynir",
+            "email": "werdffelynir@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FunnyNameGenerator\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
